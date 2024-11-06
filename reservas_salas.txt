@@ -1,0 +1,6 @@
+1301,Maria Gomez,Sala individual,2024-11-15,09:30,12:00,5000
+1302,Carlos Lopez,Sala grupal,2024-11-16,14:00,16:00,8000
+1303,Ana Martinez,Sala individual,2024-11-15,10:00,11:30,3000
+1304,Juan Perez,Sala de conferencias,2024-11-17,08:00,10:00,10000
+1305,Luis Rodríguez,Sala grupal,2024-11-18,13:00,15:00,7500
+1305,Juan Perez,Sala individual,2024-11-15,08:00,8:40,10000
